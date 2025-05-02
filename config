@@ -5,5 +5,3 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
-[lfs]
-	repositoryformatversion = 0
